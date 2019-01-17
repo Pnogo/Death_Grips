@@ -7,4 +7,5 @@ Repository for the best app about **DEATH GRIPS**
 >It goes, it goes, it goes, it goes <br />
 >It goes, it goes, it goes, it goes<br />
 >Guillotine - yuh!
+<br />
 ![alt text](https://raw.githubusercontent.com/alex2070ita/Death_Grips/master/quote.png?token=AZN4FzpyVH6eifJR4Lym9ELgqmTsE_v6ks5cSYdCwA%3D%3D)

@@ -3,7 +3,6 @@
 Repository for the best app about **DEATH GRIPS**
 <br />
 ![alt text](https://pngimage.net/wp-content/uploads/2018/06/mc-ride-png-6.png)
-<br />
 >It goes, it goes, it goes, it goes <br />
 >It goes, it goes, it goes, it goes<br />
 >Guillotine - yuh!

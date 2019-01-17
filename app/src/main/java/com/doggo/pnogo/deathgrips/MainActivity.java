@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setHomeButtonEnabled(true);
         mDrawerLayout = (DrawerLayout)findViewById(R.id.drawer_layout);
         mActivityTitle = getTitle().toString();
-        }
+        } // ad ogni costo
 
     private void addDrawerItems() {
         String[] memes= { "Home", "Our history", "About us", "News", "Log in", "Contatti", "Downloads" };

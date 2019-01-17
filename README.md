@@ -14,6 +14,8 @@ Repository for the best app about **DEATH GRIPS**
 
 [How to AAAAAA in Android.mp4](https://www.youtube.com/watch?v=1T8wfdKepB4&t=11s "AAAAAA AAAAAAA AAAAAAA")
 
+[Download Android Studio 4.0 beta(Added Swift support)](https://abbonamento.sky.it/newaol/abbonationline?codPromo=6822&p=11100&g=1&i=0&intcmp=acquista_layersat_cta_scegli)
+
 
 ## CAT GRIPS
 ![alt text](https://github.com/alex2070ita/Death_Grips/blob/master/Catto_grips.gif?raw=true)

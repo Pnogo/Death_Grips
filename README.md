@@ -12,8 +12,9 @@ Repository for the best app about **DEATH GRIPS**
 
 ![alt text](https://raw.githubusercontent.com/alex2070ita/Death_Grips/master/quote.png?token=AZN4FzpyVH6eifJR4Lym9ELgqmTsE_v6ks5cSYdCwA%3D%3D)
 
->Signore, mia roccia, mia fortezza, mio liberatore;
->mio Dio, mia rupe, in cui trovo riparo;
+### Bible quote
+>Signore, mia roccia, mia fortezza, mio liberatore; <br />
+>mio Dio, mia rupe, in cui trovo riparo; <br />
 >mio scudo e baluardo, mia potente salvezza (Salmi 18, 3)
 
 ![alte text](https://raw.githubusercontent.com/Pnogo/Death_Grips/master/amen.jpg)

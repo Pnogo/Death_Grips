@@ -1,5 +1,5 @@
 # Death_Grips
-## #franzinfame
+## #superprezzi
 ## YUH
 Repository for the best app about **DEATH GRIPS**
 <br />

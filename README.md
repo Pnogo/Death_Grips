@@ -1,5 +1,4 @@
 # Death_Grips
-## VASCONONSTOP
 ## YUH
 Repository for the best app about **DEATH GRIPS**
 <br />

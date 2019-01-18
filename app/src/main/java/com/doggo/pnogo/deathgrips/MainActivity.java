@@ -43,42 +43,23 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mDrawerList = (ListView)findViewById(R.id.navList);
-        mDrawerLayout = (DrawerLayout)findViewById(R.id.drawer_layout);
-        mActivityTitle = getTitle().toString();
-        addDrawerItems();
-        setupDrawer();
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setHomeButtonEnabled(true);
-        } // ad ogni costo
+        }
 
-    private void addDrawerItems() {
+   /* private void addDrawerItems() {
         String[] memes= { "Home", "Our history", "About us", "News", "Log in", "Contatti", "Downloads" };
         mAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, memes);
         mDrawerList.setAdapter(mAdapter);
         mDrawerList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Toast.makeText(MainActivity.this, "It goes, it goes, it goes, it goes\n" +
+                Toast.makeText(MainActivity.this, "It goes, it goes, it goes, it goes \n" +
                         "It goes, it goes, it goes, it goes\n" +
-                        "Guillotine - yuh!!", Toast.LENGTH_SHORT).show();
+                        "Guillotine - yuh!", Toast.LENGTH_SHORT).show();
             }
         });
     }
-
-
-
-
-
-    /*public void sas(){                                      //metodo che dovrebbe cambiare foto al tasto (messo qui a caso)
-        ImageButton imgView = new ImageButton(this);
-        Random rand = new Random();
-        int rndInt = rand.nextInt(2) + 1; // n = the number of images, that start at idx 1
-        String imgName = "img" + rndInt;
-        int id = getResources().getIdentifier(imgName, "drawable", getPackageName());
-        imgView.setImageResource(id);
-    }
     */
+
     public void onMusicStart(View view) throws IOException {
         mediaPlayer = MediaPlayer.create(this, R.raw.summertimeme);
         if(mediaPlayer.isPlaying())
@@ -105,17 +86,17 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    private void setupDrawer() {
+    /*private void setupDrawer() {
         mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.string.drawer_open, R.string.drawer_close) {
 
-            /** Called when a drawer has settled in a completely open state. */
+            /** Called when a drawer has settled in a completely open state.
             public void onDrawerOpened(View drawerView) {
                 super.onDrawerOpened(drawerView);
                 getSupportActionBar().setTitle("Navigation!");
                 invalidateOptionsMenu(); // creates call to onPrepareOptionsMenu()
             }
 
-            /** Called when a drawer has settled in a completely closed state. */
+            /** Called when a drawer has settled in a completely closed state.
             public void onDrawerClosed(View view) {
                 super.onDrawerClosed(view);
                 getSupportActionBar().setTitle(mActivityTitle);
@@ -166,5 +147,6 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+    */
 }
 

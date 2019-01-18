@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    style="@style/ThemeOverlay.AppCompat"
+    android:layout_width="match_parent"
+    android:layout_height="280dp"
+    android:paddingTop="65dp"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="122dp"
+        android:layout_height="137dp"
+        android:baselineAligned="false"
+        app:srcCompat="@drawable/kot" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:layout_marginTop="139dp"
+        android:layout_marginLeft="-120dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Per un mondo migliore"
+        android:layout_marginTop="159dp"
+        android:layout_marginLeft="-74dp"/>
+</LinearLayout>

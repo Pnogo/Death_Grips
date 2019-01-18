@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-    <menu xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
-        xmlns:tools="http://schemas.android.com/tools"
-        tools:context=".MainActivity">
-        <item android:id="@+id/action_settings"
-            android:title="@string/action_settings"
-            android:orderInCategory="100"
-            app:showAsAction="never"/>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/ourHistory"
+                android:title="Our history" />
+            <item
+                android:id="@+id/aboutUs"
+                android:title="About us" />
+            <item
+                android:id="@+id/news"
+                android:title="News" />
+            <item
+                android:id="@+id/logIn"
+                android:title="Log in" />
+            <item
+                android:id="@+id/contatti"
+                android:title="Contattaci" />
+            <item
+                android:id="@+id/donazioni"
+                android:title="Dona" />
+        </group>
     </menu>

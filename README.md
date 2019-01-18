@@ -3,7 +3,7 @@
 ## YUH
 Repository for the best app about **DEATH GRIPS**
 <br />
-![alt text](https://raw.githubusercontent.com/alex2070ita/Death_Grips/master/mc-ride-png-fixed.png?token=AZN4F-HRgIS5YBoidXkMsw0MaC0IqbWxks5cSZutwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/Pnogo/Death_Grips/master/mc-ride-png-fixed.png)
 ### Guillotine
 >It goes, it goes, it goes, it goes <br />
 >It goes, it goes, it goes, it goes<br />
@@ -12,11 +12,17 @@ Repository for the best app about **DEATH GRIPS**
 
 ![alt text](https://raw.githubusercontent.com/alex2070ita/Death_Grips/master/quote.png?token=AZN4FzpyVH6eifJR4Lym9ELgqmTsE_v6ks5cSYdCwA%3D%3D)
 
+>Signore, mia roccia, mia fortezza, mio liberatore;
+>mio Dio, mia rupe, in cui trovo riparo;
+>mio scudo e baluardo, mia potente salvezza (Salmi 18, 3)
+
+![alte text](https://raw.githubusercontent.com/Pnogo/Death_Grips/master/amen.jpg)
+
 
 [How to AAAAAA in Android.mp4](https://www.youtube.com/watch?v=1T8wfdKepB4&t=11s "AAAAAA AAAAAAA AAAAAAA")
 
-[Download Android Studio 4.0 beta(Added Swift support)](https://abbonamento.sky.it/newaol/abbonationline?codPromo=6822&p=11100&g=1&i=0&intcmp=acquista_layersat_cta_scegli)
+[Download Android Studio 4.0 beta(Added Swift support)](https://raw.githubusercontent.com/Pnogo/Death_Grips/master/quote.png)
 
 
 ## CAT GRIPS
-![alt text](https://github.com/alex2070ita/Death_Grips/blob/master/Catto_grips.gif?raw=true)
+![alt text](https://github.com/Pnogo/Death_Grips/blob/master/Catto_grips.gif?raw=true)

@@ -9,14 +9,14 @@ Repository for the best app about **DEATH GRIPS**
 >Guillotine - yuh!
 
 
-![alt text](https://raw.githubusercontent.com/Pnogo/Death_Grips/master/quote.png)
+![alt text](./img/quote.png?raw=true "quote")
 
 ### Bible quote
 >Signore, mia roccia, mia fortezza, mio liberatore; <br />
 >mio Dio, mia rupe, in cui trovo riparo; <br />
 >mio scudo e baluardo, mia potente salvezza (Salmi 18, 3)
 
-![alte text](https://raw.githubusercontent.com/Pnogo/Death_Grips/master/amen.jpg)
+![alte text](./img/amen.jpg?raw=true "amen")
 
 
 [How to AAAAAA in Android.mp4](https://www.youtube.com/watch?v=1T8wfdKepB4&t=11s "AAAAAA AAAAAAA AAAAAAA")
@@ -25,4 +25,4 @@ Repository for the best app about **DEATH GRIPS**
 
 
 ## CAT GRIPS
-![alt text](https://github.com/Pnogo/Death_Grips/blob/master/Catto_grips.gif?raw=true)
+![alt text](./img/Catto_grips.gif?raw=true "kot")

@@ -2,7 +2,7 @@
 ## YUH
 Repository for the best app about **DEATH GRIPS**
 <br />
-![alt text](mc-ride-png-fixed.png?raw=true "MCRide")
+![alt text](./img/mc-ride-png-fixed.png?raw=true "MCRide")
 ### Guillotine
 >It goes, it goes, it goes, it goes <br />
 >It goes, it goes, it goes, it goes<br />
